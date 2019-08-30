@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  timing: MyString
+  equipment: MyString
+
+two:
+  type: 
+  timing: MyString
+  equipment: MyString
